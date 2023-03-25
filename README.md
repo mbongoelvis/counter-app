@@ -1,0 +1,3 @@
+-This is a simple counter app using only html, css and javascript
+-The app allows you to just incriment and reset the value of the counter 
+-maybe in the future i will increase more functionality of the app 
